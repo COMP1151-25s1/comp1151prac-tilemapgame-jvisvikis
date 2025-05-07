@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "TinyDungeonMapFile.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -58.25,
+                "y": 2.75
+            }
+        },
+        "TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "TinyDungeonMapFile.tmx",
+        "TinyDungeon_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
