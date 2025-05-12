@@ -3,10 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -122.25,
+                "y": -90.75
+            }
+        },
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
         "TinyDungeonMapFile.tmx": {
             "scale": 2,
             "selectedLayer": 1,
@@ -26,9 +39,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx",
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx",
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx",
         "TinyDungeonMapFile.tmx",
         "TinyDungeon_Tilesheet.tsx"
     ],
