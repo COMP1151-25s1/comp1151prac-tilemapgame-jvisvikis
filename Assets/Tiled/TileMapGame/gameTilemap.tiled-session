@@ -3,14 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx",
+    "activeFile": "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/PhysicsTestMap.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/PhysicsTestMap.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 882.1666666666666,
+                "y": 556.1666666666666
+            }
+        },
         "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx": {
             "scale": 2,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": -122.25,
                 "y": -90.75
@@ -40,12 +48,14 @@
     "map.tileWidth": 16,
     "openFiles": [
         "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx",
-        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx"
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx",
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/PhysicsTestMap.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
-        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx",
         "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonTileSet.tsx",
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/TinyDungeonMap.tmx",
+        "C:/Users/jvisv/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-jvisvikis/Assets/Tiled/PhysicsTestMap.tmx",
         "TinyDungeonMapFile.tmx",
         "TinyDungeon_Tilesheet.tsx"
     ],
